@@ -1,0 +1,17 @@
+{
+  "schema": "fund.mithril.interop.plugin.v1",
+  "id": "fund.mithril.siso.msdl",
+  "version": "0.2.0",
+  "rpcVersion": 1,
+  "entryPoint": "mithril_msdl.plugin:Plugin",
+  "operations": [
+    "msdl-import",
+    "msdl-project"
+  ],
+  "standard": "SISO-STD-007-2008",
+  "effects": {
+    "network": false,
+    "nativeProcess": false,
+    "rf": false
+  }
+}
