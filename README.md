@@ -1,4 +1,4 @@
-# fund.mithril.siso.msdl
+# fund.mithril.lib.siso.msdl
 
 Versioned MSDL native XML profile plugin: `SISO-STD-007-2008`.
 Operations: msdl-import, msdl-project. Bundled explicit XPath mapping; native source bytes remain preserved.

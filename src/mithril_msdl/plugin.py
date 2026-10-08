@@ -4,7 +4,7 @@ from mithril_interop import Refusal
 from mithril_xml import native_xml as xml
 ROOT=Path(__file__).parent
 class Plugin:
-    id='fund.mithril.siso.msdl'
+    id='fund.mithril.lib.siso.msdl'
     rpc_version=1
     operations=('msdl-import', 'msdl-project')
     @staticmethod

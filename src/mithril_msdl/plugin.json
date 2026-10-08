@@ -1,7 +1,7 @@
 {
-  "schema": "fund.mithril.interop.plugin.v1",
-  "id": "fund.mithril.siso.msdl",
-  "version": "0.2.0",
+  "schema": "fund.mithril.lib.interop.plugin.v1",
+  "id": "fund.mithril.lib.siso.msdl",
+  "version": "0.3.0",
   "rpcVersion": 1,
   "entryPoint": "mithril_msdl.plugin:Plugin",
   "operations": [
